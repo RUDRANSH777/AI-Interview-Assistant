@@ -346,7 +346,7 @@ for providing the technologies that made this project possible.
 
 # 📜 License
 
-MIT License © 2026 Rudransh Mohan Srivastava
+MIT License © 2026 
 
 ---
 
